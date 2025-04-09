@@ -5,7 +5,7 @@ A sleek and responsive web application that provides real-time data for top cryp
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript  
-- **API**: CoinGecko API (or similar)  
+- **API**: (https://api.tokeninsight.com/api)
 - **Charts**: Chart.js  
 - **Design**: Responsive layout for all screen sizes
 
