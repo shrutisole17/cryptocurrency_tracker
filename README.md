@@ -11,8 +11,8 @@ A sleek and responsive web application that provides real-time data for top cryp
 
 ## 👥 Team
 
-- [Your Name]
-- [Teammate’s Name]
+- Shruti Ashok Sole
+- Ssamira Ramdas Gorde
 
 ## 🌟 Features
 
