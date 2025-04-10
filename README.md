@@ -12,7 +12,7 @@ A sleek and responsive web application that provides real-time data for top cryp
 ## 👥 Team
 
 - Shruti Ashok Sole
-- Ssamira Ramdas Gorde
+- Samira Ramdas Gorde
 
 ## 🌟 Features
 
